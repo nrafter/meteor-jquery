@@ -1,9 +1,9 @@
 {
   "name": "jquery",
-  "description": "jQuery 2.0 for Meteor",
+  "description": "jQuery 2.1 for Meteor",
   "homepage": "https://github.com/nrafter/meteor-jquery",
   "author": "Nick Rafter",
-  "version": "2.0.31",
+  "version": "2.1.1",
   "git": "https://github.com/nrafter/meteor-jquery.git",
   "packages": {}
 }

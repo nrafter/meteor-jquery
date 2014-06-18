@@ -1,7 +1,7 @@
 Package.describe({
-	summary: "jQuery 2.0.3"
+	summary: "jQuery 2.1.1"
 });
 
 Package.on_use(function (api) {
-	api.add_files('jquery-2.0.3.js', 'client');
+	api.add_files('jquery-2.1.1.js', 'client');
 });
